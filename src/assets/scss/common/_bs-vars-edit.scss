@@ -1,0 +1,19 @@
+.container-bsve { margin-bottom: ($line-height-computed * 2) }
+
+// Colors
+.color-box { height: 80px; }
+.color-gray-base { background-color: $gray-base; }
+.color-gray-darker { background-color: $gray-darker; }
+.color-gray-dark { background-color: $gray-dark; }
+.color-gray { background-color: $gray; }
+.color-gray-light { background-color: $gray-light; }
+.color-gray-lighter { background-color: $gray-lighter; }
+.color-primary { background-color: $brand-primary; }
+.color-success { background-color: $brand-success; }
+.color-info { background-color: $brand-info; }
+.color-warning { background-color: $brand-warning; }
+.color-danger { background-color: $brand-danger; }
+
+// Typography
+.bsve-sans { font-family: $font-family-sans-serif; }
+.bsve-serif { font-family: $font-family-serif; }

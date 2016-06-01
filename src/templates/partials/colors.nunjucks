@@ -1,0 +1,40 @@
+<div class="container container-bsve">
+  <div class="page-header">
+    <h2>Colors</h2>
+  </div>
+  <div class="row">
+    <div class="col-xs-4 col-md-2">
+      <div class="thumbnail color-box color-gray-base"></div>
+    </div>
+    <div class="col-xs-4 col-md-2">
+      <div class="thumbnail color-box color-gray-darker"></div>
+    </div>
+    <div class="col-xs-4 col-md-2">
+      <div class="thumbnail color-box color-gray-dark"></div>
+    </div>
+    <div class="col-xs-4 col-md-2">
+      <div class="thumbnail color-box color-gray"></div>
+    </div>
+    <div class="col-xs-4 col-md-2">
+      <div class="thumbnail color-box color-gray-light"></div>
+    </div>
+    <div class="col-xs-4 col-md-2">
+      <div class="thumbnail color-box color-gray-lighter"></div>
+    </div>
+    <div class="col-xs-4 col-md-2">
+      <div class="thumbnail color-box color-primary"></div>
+    </div>
+    <div class="col-xs-4 col-md-2">
+      <div class="thumbnail color-box color-success"></div>
+    </div>
+    <div class="col-xs-4 col-md-2">
+      <div class="thumbnail color-box color-info"></div>
+    </div>
+    <div class="col-xs-4 col-md-2">
+      <div class="thumbnail color-box color-warning"></div>
+    </div>
+    <div class="col-xs-4 col-md-2">
+      <div class="thumbnail color-box color-danger"></div>
+    </div>
+  </div>    
+</div>

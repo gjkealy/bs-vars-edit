@@ -1,0 +1,15 @@
+<div class="container container-bsve">
+  <div class="page-header">
+    <h2>Typography</h2>
+  </div>
+
+  <p class="bsve-sans">$font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif !default;</p>
+  <p class="bsve-serif">$font-family-serif: Georgia, "Times New Roman", Times, serif !default;</p>
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu nunc id nisl viverra rutrum et sed nisl. Donec eget posuere quam. Quisque convallis neque at luctus ultricies. Curabitur eu tincidunt dui. Vestibulum fringilla neque vestibulum, semper lacus eu, faucibus elit. Aliquam libero ante, condimentum at ullamcorper ut, cursus a purus. Curabitur turpis eros, lobortis at felis ut, porta vehicula dui. Mauris eleifend semper justo rutrum tempus. Proin quis sem rhoncus, aliquam urna mattis, porttitor leo. Sed pulvinar libero et augue dapibus, quis molestie ante tincidunt. Vivamus facilisis ligula molestie nulla ultricies, vitae cursus justo consectetur. In ullamcorper viverra urna eu viverra. Fusce sed dui nec metus maximus vulputate sed ac nulla. Donec eleifend vestibulum varius. Etiam ipsum ex, sollicitudin quis urna nec, laoreet tincidunt elit.</p>
+
+  <h1>Heading One</h1>
+  <h2>Heading Two</h2>
+  <h3>Heading Three</h3>
+  <h4>Heading Four</h4>
+</div>

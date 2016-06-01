@@ -1,0 +1,12 @@
+<!-- index.nunjucks -->
+{% extends "layout.nunjucks" %}
+
+
+{% block content %}
+
+{% include "partials/colors.nunjucks" %}
+{% include "partials/typography.nunjucks" %}
+{% include "partials/buttons.nunjucks" %}
+
+
+{% endblock %}

@@ -1,0 +1,12 @@
+{
+  "name": "bs-vars-edit",
+  "version": "1.0.0",
+  "author": "Gary Kealy",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.12.10",
+    "gulp": "^3.9.1",
+    "gulp-nunjucks-render": "^2.0.0",
+    "gulp-sass": "^2.3.1"
+  }
+}
